@@ -1,0 +1,298 @@
+Indicator;Year;Value
+Population_Begin;2000;82163475
+Population_Begin;2001;82259540
+Population_Begin;2002;82440309
+Population_Begin;2003;82536680
+Population_Begin;2004;82531671
+Population_Begin;2005;82500849
+Population_Begin;2006;82437995
+Population_Begin;2007;82314906
+Population_Begin;2008;82217837
+Population_Begin;2009;82002356
+Population_Begin;2010;81802257
+Population_Begin;2011;81751602
+Population_Begin;2012;80327900
+Population_Begin;2013;80523746
+Population_Begin;2014;80767463
+Population_Begin;2015;81197537
+Population_Avg;2000;82211508
+Population_Avg;2001;82349925
+Population_Avg;2002;82488495
+Population_Avg;2003;82534176
+Population_Avg;2004;82516260
+Population_Avg;2005;82469422
+Population_Avg;2006;82376451
+Population_Avg;2007;82266372
+Population_Avg;2008;82110097
+Population_Avg;2009;81902307
+Population_Avg;2010;81776930
+Population_Avg;2011;81797673
+Population_Avg;2012;80425823
+Population_Avg;2013;80645605
+Population_Avg;2014;80982500
+Population_Avg;2015;
+Live births;2000;766999
+Live births;2001;734475
+Live births;2002;719250
+Live births;2003;706721
+Live births;2004;705622
+Live births;2005;685795
+Live births;2006;672724
+Live births;2007;684862
+Live births;2008;682514
+Live births;2009;665126
+Live births;2010;677947
+Live births;2011;662685
+Live births;2012;673544
+Live births;2013;682069
+Live births;2014;714927
+Live births;2015;
+Deaths;2000;838797
+Deaths;2001;828541
+Deaths;2002;841686
+Deaths;2003;853946
+Deaths;2004;818271
+Deaths;2005;830227
+Deaths;2006;821627
+Deaths;2007;827155
+Deaths;2008;844439
+Deaths;2009;854544
+Deaths;2010;858768
+Deaths;2011;852328
+Deaths;2012;869582
+Deaths;2013;893825
+Deaths;2014;868356
+Deaths;2015;
+Population_nat_change;2000;-71798
+Population_nat_change;2001;-94066
+Population_nat_change;2002;-122436
+Population_nat_change;2003;-147225
+Population_nat_change;2004;-112649
+Population_nat_change;2005;-144432
+Population_nat_change;2006;-148903
+Population_nat_change;2007;-142293
+Population_nat_change;2008;-161925
+Population_nat_change;2009;-189418
+Population_nat_change;2010;-180821
+Population_nat_change;2011;-189643
+Population_nat_change;2012;-196038
+Population_nat_change;2013;-211756
+Population_nat_change;2014;-153429
+Population_nat_change;2015;
+Net_migration;2000;167863
+Net_migration;2001;274835
+Net_migration;2002;218807
+Net_migration;2003;142216
+Net_migration;2004;81827
+Net_migration;2005;81578
+Net_migration;2006;25814
+Net_migration;2007;45224
+Net_migration;2008;-53556
+Net_migration;2009;-10681
+Net_migration;2010;130166
+Net_migration;2011;281784
+Net_migration;2012;391884
+Net_migration;2013;455473
+Net_migration;2014;583503
+Net_migration;2015;
+Population_total_change;2000;96065
+Population_total_change;2001;180769
+Population_total_change;2002;96371
+Population_total_change;2003;-5009
+Population_total_change;2004;-30822
+Population_total_change;2005;-62854
+Population_total_change;2006;-123089
+Population_total_change;2007;-97069
+Population_total_change;2008;-215481
+Population_total_change;2009;-200099
+Population_total_change;2010;-50655
+Population_total_change;2011;92141
+Population_total_change;2012;195846
+Population_total_change;2013;243717
+Population_total_change;2014;430074
+Population_total_change;2015;
+Crude birth rate;2000;9,3
+Crude birth rate;2001;8,9
+Crude birth rate;2002;8,7
+Crude birth rate;2003;8,6
+Crude birth rate;2004;8,6
+Crude birth rate;2005;8,3
+Crude birth rate;2006;8,2
+Crude birth rate;2007;8,3
+Crude birth rate;2008;8,3
+Crude birth rate;2009;8,1
+Crude birth rate;2010;8,3
+Crude birth rate;2011;8,1
+Crude birth rate;2012;8,4
+Crude birth rate;2013;8,5
+Crude birth rate;2014;8,8
+Crude birth rate;2015;
+Crude death rate ;2000;10,2
+Crude death rate ;2001;10,1
+Crude death rate ;2002;10,2
+Crude death rate ;2003;10,3
+Crude death rate ;2004;9,9
+Crude death rate ;2005;10,1
+Crude death rate ;2006;10
+Crude death rate ;2007;10,1
+Crude death rate ;2008;10,3
+Crude death rate ;2009;10,4
+Crude death rate ;2010;10,5
+Crude death rate ;2011;10,4
+Crude death rate ;2012;10,8
+Crude death rate ;2013;11,1
+Crude death rate ;2014;10,7
+Crude death rate ;2015;
+Crude rate of natural change of population;2000;-0,9
+Crude rate of natural change of population;2001;-1,1
+Crude rate of natural change of population;2002;-1,5
+Crude rate of natural change of population;2003;-1,8
+Crude rate of natural change of population;2004;-1,4
+Crude rate of natural change of population;2005;-1,8
+Crude rate of natural change of population;2006;-1,8
+Crude rate of natural change of population;2007;-1,7
+Crude rate of natural change of population;2008;-2
+Crude rate of natural change of population;2009;-2,3
+Crude rate of natural change of population;2010;-2,2
+Crude rate of natural change of population;2011;-2,3
+Crude rate of natural change of population;2012;-2,4
+Crude rate of natural change of population;2013;-2,6
+Crude rate of natural change of population;2014;-1,9
+Crude rate of natural change of population;2015;
+Crude rate of net migration plus statistical adjustment;2000;2
+Crude rate of net migration plus statistical adjustment;2001;3,3
+Crude rate of net migration plus statistical adjustment;2002;2,7
+Crude rate of net migration plus statistical adjustment;2003;1,7
+Crude rate of net migration plus statistical adjustment;2004;1
+Crude rate of net migration plus statistical adjustment;2005;1
+Crude rate of net migration plus statistical adjustment;2006;0,3
+Crude rate of net migration plus statistical adjustment;2007;0,5
+Crude rate of net migration plus statistical adjustment;2008;-0,7
+Crude rate of net migration plus statistical adjustment;2009;-0,1
+Crude rate of net migration plus statistical adjustment;2010;1,6
+Crude rate of net migration plus statistical adjustment;2011;3,4
+Crude rate of net migration plus statistical adjustment;2012;4,9
+Crude rate of net migration plus statistical adjustment;2013;5,6
+Crude rate of net migration plus statistical adjustment;2014;7,2
+Crude rate of net migration plus statistical adjustment;2015;
+Crude rate of total population change;2000;1,2
+Crude rate of total population change;2001;2,2
+Crude rate of total population change;2002;1,2
+Crude rate of total population change;2003;-0,1
+Crude rate of total population change;2004;-0,4
+Crude rate of total population change;2005;-0,8
+Crude rate of total population change;2006;-1,5
+Crude rate of total population change;2007;-1,2
+Crude rate of total population change;2008;-2,6
+Crude rate of total population change;2009;-2,4
+Crude rate of total population change;2010;-0,6
+Crude rate of total population change;2011;1,1
+Crude rate of total population change;2012;2,4
+Crude rate of total population change;2013;3
+Crude rate of total population change;2014;5,3
+Crude rate of total population change;2015;
+Marriages;2000;418550
+Marriages;2001;389591
+Marriages;2002;382911
+Marriages;2003;382911
+Marriages;2004;395992
+Marriages;2005;388451
+Marriages;2006;373681
+Marriages;2007;368922
+Marriages;2008;377055
+Marriages;2009;378439
+Marriages;2010;382047
+Marriages;2011;377816
+Marriages;2012;387423
+Marriages;2013;373655
+Marriages;2014;385952
+Crude marriage rate;2000;5,1
+Crude marriage rate;2001;4,7
+Crude marriage rate;2002;4,6
+Crude marriage rate;2003;4,6
+Crude marriage rate;2004;4,8
+Crude marriage rate;2005;4,7
+Crude marriage rate;2006;4,5
+Crude marriage rate;2007;4,5
+Crude marriage rate;2008;4,6
+Crude marriage rate;2009;4,6
+Crude marriage rate;2010;4,7
+Crude marriage rate;2011;4,6
+Crude marriage rate;2012;4,8
+Crude marriage rate;2013;4,5
+Crude marriage rate;2014;4,8
+Immigration;2000;841158
+Immigration;2001;879217
+Immigration;2002;842543
+Immigration;2003;768975
+Immigration;2004;780175
+Immigration;2005;707352
+Immigration;2006;661855
+Immigration;2007;680766
+Immigration;2008;682146
+Immigration;2009;346216
+Immigration;2010;404055
+Immigration;2011;489422
+Immigration;2012;592175
+Immigration;2013;692713
+Immigration;2014;884893
+Emigration;2000;674038
+Emigration;2001;606494
+Emigration;2002;623255
+Emigration;2003;626330
+Emigration;2004;697632
+Emigration;2005;628399
+Emigration;2006;639064
+Emigration;2007;636854
+Emigration;2008;737889
+Emigration;2009;286582
+Emigration;2010;252456
+Emigration;2011;249045
+Emigration;2012;240001
+Emigration;2013;259328
+Emigration;2014;324221
+Divorces;2000;194408
+Divorces;2001;197498
+Divorces;2002;204214
+Divorces;2003;213975
+Divorces;2004;213691
+Divorces;2005;201693
+Divorces;2006;190928
+Divorces;2007;187072
+Divorces;2008;191948
+Divorces;2009;185817
+Divorces;2010;187027
+Divorces;2011;187640
+Divorces;2012;179147
+Divorces;2013;
+Divorces;2014;166199
+Crude divorce rate;2000;2,4
+Crude divorce rate;2001;2,4
+Crude divorce rate;2002;2,5
+Crude divorce rate;2003;2,6
+Crude divorce rate;2004;2,6
+Crude divorce rate;2005;2,4
+Crude divorce rate;2006;2,3
+Crude divorce rate;2007;2,3
+Crude divorce rate;2008;2,3
+Crude divorce rate;2009;2,3
+Crude divorce rate;2010;2,3
+Crude divorce rate;2011;2,3
+Crude divorce rate;2012;2,2
+Crude divorce rate;2013;
+Crude divorce rate;2014;2,1
+Divorces per 100 marriages;2000;46,4
+Divorces per 100 marriages;2001;50,7
+Divorces per 100 marriages;2002;53,3
+Divorces per 100 marriages;2003;55,9
+Divorces per 100 marriages;2004;54
+Divorces per 100 marriages;2005;51,9
+Divorces per 100 marriages;2006;51,1
+Divorces per 100 marriages;2007;50,7
+Divorces per 100 marriages;2008;50,9
+Divorces per 100 marriages;2009;49,1
+Divorces per 100 marriages;2010;49
+Divorces per 100 marriages;2011;49,7
+Divorces per 100 marriages;2012;46,2
+Divorces per 100 marriages;2013;
+Divorces per 100 marriages;2014;43,1
